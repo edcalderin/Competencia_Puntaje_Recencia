@@ -1,4 +1,4 @@
-Execute the following commands after install modules in requirements.txt
+Execute the following commands after installing modules within requirements.txt
 
 Command: `python -m spacy download en_core_web_lg`  
 which would
